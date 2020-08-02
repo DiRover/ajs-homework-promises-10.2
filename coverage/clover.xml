@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1596356651737" clover="3.2.0">
+  <project timestamp="1596356651737" name="All files">
+    <metrics statements="23" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="12" elements="35" coveredelements="34" complexity="0" loc="23" ncloc="23" packages="1" files="4" classes="4"/>
+    <file name="GameSavingLoader.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task_10.2\src\js\GameSavingLoader.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+    </file>
+    <file name="app.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task_10.2\src\js\app.js">
+      <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+    </file>
+    <file name="parser.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task_10.2\src\js\parser.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+    </file>
+    <file name="reader.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task_10.2\src\js\reader.js">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="180" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
